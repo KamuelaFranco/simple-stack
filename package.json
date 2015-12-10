@@ -1,7 +1,7 @@
 {
-  "name": "simple-stack",
+  "name": "simple-data-stack",
   "version": "1.0.0",
-  "description": "An implementation of a simple stack object.",
+  "description": "An implementation of a simple stack class.",
   "main": "simple-stack.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
