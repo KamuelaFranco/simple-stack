@@ -1,0 +1,23 @@
+{
+  "name": "simple-stack",
+  "version": "1.0.0",
+  "description": "An implementation of a simple stack object.",
+  "main": "simple-stack.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KamuelaFranco/simple-stack.git"
+  },
+  "keywords": [
+    "stack",
+    "javascript"
+  ],
+  "author": "Kamuela Franco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamuelaFranco/simple-stack/issues"
+  },
+  "homepage": "https://github.com/KamuelaFranco/simple-stack#readme"
+}
